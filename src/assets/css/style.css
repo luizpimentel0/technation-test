@@ -52,21 +52,21 @@ body {
 }
 
 #sidebar ul li,
-#sidebar ul li span > a {
+#sidebar ul li a {
   cursor: pointer;
   color: #fff;
 }
 
-#sidebar ul li span {
+#sidebar ul li a {
   display: none;
 }
 
-#sidebar.expand ul li span {
-  display: inline;
+#sidebar.expand ul li a {
+  display: block;
 }
 
 #sidebar ul li:hover,
-#sidebar ul li span > a:hover {
+#sidebar ul li a:hover {
   color: #DE3163;
   background-color: #fff;
   border-radius: 5px;
