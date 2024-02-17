@@ -1,6 +1,6 @@
 [
   {
-    "pagador": "João da Silva",
+    "nome": "João da Silva",
     "identificacaoNota": "123456",
     "dataEmissaoNota": "2023-01-15",
     "dataCobranca": "2023-02-01",
@@ -10,7 +10,17 @@
     "statusNota": "Pagamento realizado"
   },
   {
-    "pagador": "Maria Souza",
+    "nome": "João da Silva",
+    "identificacaoNota": "123456",
+    "dataEmissaoNota": "2023-01-15",
+    "dataCobranca": "2023-01-01",
+    "dataPagamento": "2023-01-10",
+    "documentoNotaFiscal": "ABC123",
+    "documentoBoletoBancario": "123456789",
+    "statusNota": "Pagamento realizado"
+  },
+  {
+    "nome": "Maria Souza",
     "identificacaoNota": "789012",
     "dataEmissaoNota": "2023-02-01",
     "dataCobranca": "2023-03-01",
@@ -20,7 +30,7 @@
     "statusNota": "Cobrança realizada"
   },
   {
-    "pagador": "José Santos",
+    "nome": "José Santos",
     "identificacaoNota": "345678",
     "dataEmissaoNota": "2023-03-15",
     "dataCobranca": "",
